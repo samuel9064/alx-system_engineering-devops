@@ -1,1 +1,1 @@
-sym link
+cp html
