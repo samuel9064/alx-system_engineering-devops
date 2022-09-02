@@ -1,1 +1,1 @@
-ls
+file type
