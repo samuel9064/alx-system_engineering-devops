@@ -1,1 +1,1 @@
-removing directory
+rmdir
