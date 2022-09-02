@@ -1,1 +1,1 @@
-symlink permit
+only if
