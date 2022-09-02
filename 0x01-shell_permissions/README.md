@@ -1,1 +1,1 @@
-directories
+more dir settings
