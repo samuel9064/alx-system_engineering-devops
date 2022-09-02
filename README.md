@@ -1,1 +1,1 @@
-Display current directory contents with specifications
+mkdir
