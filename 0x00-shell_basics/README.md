@@ -1,1 +1,1 @@
-file type
+sym link

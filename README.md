@@ -1,1 +1,1 @@
-type of file
+making a symlink
