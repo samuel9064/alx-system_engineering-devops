@@ -1,1 +1,1 @@
- owner and group
+symlink permit
