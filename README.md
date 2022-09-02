@@ -1,1 +1,1 @@
-mkdir multiple
+making directories
