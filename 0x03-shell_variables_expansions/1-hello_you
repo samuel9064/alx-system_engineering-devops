@@ -1,2 +1,2 @@
 #!/bin/bash
-echon"hello MyUser"
+echon"hello $MyUser"
